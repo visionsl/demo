@@ -42,7 +42,7 @@ import com.pi4j.io.gpio.event.GpioPinListenerDigital;
  * @author S.L
  *
  */
-public class Activity {
+public class Activity { 
 	//Mongodb
 	static MongoClient _mongoClient;
 	static MongoDatabase _database;
